@@ -2,10 +2,10 @@
   fill: #000000;
   stroke: #FFFFFF;
   stroke-dasharray: 7000;
-  animation: dash 2s linear forwards;
+  animation: ShowCreation 2s linear forwards;
 }
 
-@keyframes dash {
+@keyframes ShowCreation {
   0% {
   	stroke-dashoffset: 7000;
   	fill: #000000;
