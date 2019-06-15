@@ -1,0 +1,21 @@
+.path {
+  fill: #000000;
+  stroke: #FFFFFF;
+  stroke-dasharray: 7000;
+  animation: dash 2s linear forwards;
+}
+
+@keyframes dash {
+  0% {
+  	stroke-dashoffset: 7000;
+  	fill: #000000;
+  }
+  75% {
+  	stroke-dashoffset: 0;
+  	fill: #000000;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    fill: #FFFFFF;
+  }
+}
