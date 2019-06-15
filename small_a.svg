@@ -1,4 +1,62 @@
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-  width="1500px" height="1000px" viewBox="0 0 5000 1000" enable-background="new 0 0 5000 1000" xml:space="preserve">
-  <path id="a" class=path stroke-width="4" stroke-miterlimit="10" d="M104 150Q104 223 137 292T233 409T374 456Q431 456 472 416Q494 435 517 435Q535 435 548 424T562 393Q562 381 524 231T485 57Q485 26 504 26Q537 26 565 138Q568 152 573 157T593 162H597Q623 162 623 145Q622 139 620 129T608 91T585 44T549 6T498 -11Q431 -11 396 41Q334 -11 264 -11Q196 -11 150 29T104 150ZM212 97Q212 59 229 43T269 26Q306 26 339 51T382 97Q384 101 415 224T446 354Q446 372 428 395T374 419Q320 419 282 357Q259 317 236 227T212 97Z" />
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="262.5"
+   height="278"
+   viewBox="0 0 875 278"
+   enable-background="new 0 0 5000 1000"
+   xml:space="preserve"
+   sodipodi:docname="small_a.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><font
+       horiz-adv-x="1024"
+       id="font815"
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90"><font-face
+         units-per-em="1024"
+         id="font-face817"
+         font-family="SVGFont 1" /><missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph819" /></font></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1121"
+     inkscape:window-height="772"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.216"
+     inkscape:cx="1578.7037"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><!-- <path id="a" class=path stroke-width="4" stroke-miterlimit="10" d="M104 150Q104 223 137 292T233 409T374 456Q431 456 472 416Q494 435 517 435Q535 435 548 424T562 393Q562 381 524 231T485 57Q485 26 504 26Q537 26 565 138Q568 152 573 157T593 162H597Q623 162 623 145Q622 139 620 129T608 91T585 44T549 6T498 -11Q431 -11 396 41Q334 -11 264 -11Q196 -11 150 29T104 150ZM212 97Q212 59 229 43T269 26Q306 26 339 51T382 97Q384 101 415 224T446 354Q446 372 428 395T374 419Q320 419 282 357Q259 317 236 227T212 97Z" /> --><path
+     id="a"
+     class="path"
+     stroke-miterlimit="10"
+     d="m 0,284.33333 q 0,-224.999997 148.50001,-417.5 148.5,-192.4999 320.5,-192.4999 105.99998,0 171.99998,121 18,-78 80,-78 25,0 40.99998,16.5 16,16.5 16,38.5 0,8 -8,39 l -128.99998,515.9999 q -25,94 -24,146 0,81 52,81 h 1 q 33,0 60.5,-39.5 27.49998,-39.5 41.99998,-82.5 14.5,-43 30.5,-105 l 6,-24 q 10,-37 35,-37 31,0 31,26 -4,25 -12,63 -8,38 -43,115.5 -35,77.5 -77.99998,108.5 -31,23 -78,23 -57,0 -103.5,-35 -46.5,-35 -62.5,-109 -128.99998,143 -247.99998,144 -113,0 -181.5,-88.5 Q 0,425.33333 0,284.33333 Z m 139.00001,90 q 0,70 27,125 27,55 88,55 70,0 143.5,-70.5 73.5,-70.5 100.49998,-125.5 4,-10 58,-220 54,-209.999997 54,-230.999997 0,-49.000003 -34.5,-117.499903 -34.5,-68.5 -106.49998,-68.5 -88,0 -174,124.9999 -66,94.000003 -111,271 -45,177 -45,257 z"
+     inkscape:connector-curvature="0"
+     style="stroke-width:4;stroke-miterlimit:10" /></svg>

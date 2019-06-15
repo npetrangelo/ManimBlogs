@@ -1,13 +1,13 @@
 .path {
   fill: #000000;
   stroke: #FFFFFF;
-  stroke-dasharray: 7000;
-  animation: ShowCreation 5s linear forwards;
+  stroke-dasharray: 4000;
+  animation: ShowCreation 2s linear forwards;
 }
 
 @keyframes ShowCreation {
   0% {
-  	stroke-dashoffset: 7000;
+  	stroke-dashoffset: 4000;
   	fill: #000000;
   }
   75% {
